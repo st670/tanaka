@@ -72,3 +72,7 @@ article p:not(:first-of-type){
 a:hover{
     background-color: pink;
 }
+
+*all{
+    background-color: lightgray;
+}
