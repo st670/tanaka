@@ -69,6 +69,6 @@ article p:not(:first-of-type){
 
 */
 
-p:hover{
+a:hover{
     background-color: pink;
 }
