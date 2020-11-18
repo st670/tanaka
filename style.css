@@ -2,6 +2,10 @@
     background-color: rgb(233, 233, 233);
 }
 
+.inner{
+    text-align: center;
+  }
+
 ul.boxes {
     display:-webkit-flex;
     display:flex;
@@ -12,10 +16,13 @@ ul.boxes {
     ul.boxes li {
     width:25%;
     }
-    ul.boxesa {
+    ul.boxes a {
     display:block;
-    margin:2px; padding:10px; font-size:10px;
-    background-color:#66cc99; color:#ffffff;
+    margin:5px; padding:5px; font-size:25px;
+    background-color:#91c07c; color:#ffffff;
     text-align:center;
     text-decoration:none;
+    }
+    ul.boxes a:hover{
+        background-color: #769966;
     }
