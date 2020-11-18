@@ -9,10 +9,10 @@ ul.boxes {
     list-style-type:none;
     margin:0; padding:0;
     }
-    ul.sample3 li {
+    ul.boxes li {
     width:25%;
     }
-    ul.sample3 a {
+    ul.boxesa {
     display:block;
     margin:2px; padding:10px; font-size:10px;
     background-color:#66cc99; color:#ffffff;
